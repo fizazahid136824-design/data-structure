@@ -1,6 +1,6 @@
 /* Write a program in which performs the following operations using a simple queue: insert()->delete()->display().
-Name:Diya Ambaliya
-Enrollment no.:92500527126 */
+Name:fiza
+Enrollment no.:92500527149 */
 #include<stdio.h>
 #define MAX 5
 
