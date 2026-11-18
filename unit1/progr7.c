@@ -1,6 +1,6 @@
 /* Delet an element into the array at user defined position B.
-Name: Diya Ambaliya
-Enrollment No.: 92500527126 */
+Name: fiza
+Enrollment No.: 92500527149 */
 #include<stdio.h>
 void main()
 {
