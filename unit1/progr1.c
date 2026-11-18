@@ -1,6 +1,6 @@
 /* Create an array of size 10, input values and print the array ,and search an element in the array.
-Name: Diya Ambaliya
-Enrollment no.:92500527126 */
+Name: fiza
+Enrollment no.:92500527149 */
 
 #include<stdio.h>
 
