@@ -1,6 +1,6 @@
 /* Write a program to multiply two matrices.
-Name: Diya Ambaliya
-Enrollment no.:92500527126 */
+Name: fiza
+Enrollment no.:92500527149*/
 
 #include<stdio.h>
 
